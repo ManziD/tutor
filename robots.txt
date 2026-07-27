@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://manzid.github.io/tutor/sitemap.xml
