@@ -212,7 +212,12 @@
   }
 
   article{padding:56px 0 90px;}
-  .post-body{max-width:720px;}
+  .post-body{max-width:720px;
+            background:#fff;
+            border:1px solid var(--line);
+            border-radius:var(--radius);
+            padding:40px clamp(24px, 5vw, 52px);
+            }
   .post-body p{
     font-size:17px;
     color:var(--ink-soft);
