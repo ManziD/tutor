@@ -16,7 +16,7 @@ It reflects the kind of work I do as a website designer for small businesses and
 - **Full-stack when needed** — a Supabase-backed private resource library with authentication and access control, built alongside the front-end rather than bolted on
 - **Fast, framework-free** — hand-written HTML/CSS/JS, no unnecessary dependencies, quick to load even on slower connections
 
-If you're looking for a website that's designed around how your actual customers behave — not just a template with your logo on it — this is the kind of work I deliver.
+If you're looking for a website that's designed to deliver better experience to your customers, this is the kind of work I deliver.
 
 ---
 
@@ -27,7 +27,7 @@ This is the website and booking system for one-on-one and group Physics and Math
 - O-Level (UCE) Physics and Mathematics
 - A-Level (UACE) Physics, Pure Mathematics, and Applied/Subsidiary Mathematics
 
-Visitors can browse subjects taught, read coaching notes on the blog, book a diagnostic or coaching session directly via WhatsApp, and (for enrolled students) access a private resource library of past papers and notes.
+Visitors can browse subjects taught, read coaching notes on the blog, book a consultations or coaching sessions directly via WhatsApp, and (for enrolled students) access a private resource library of past papers and notes.
 
 ## Tech Stack
 
